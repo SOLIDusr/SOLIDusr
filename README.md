@@ -13,9 +13,9 @@
 
 ## About me
 
-- 🔭 Now I'm working onto "requesto-py" repository. It is a simple ORM for Postgres and SQLite on python.
-- 🌱 I am learnong java, kotlin, kotlin multiplatform.
-- 📫 My e-mail: naromori@dolta.su
+- 🔭 Now I'm working onto "requesto-py" repository. It is a simple wrapper for Postgres and SQLite on python.
+- 🌱 I am learning java && cotlin
+- 📫 My e-mail: ~~naromori@dolta.su~~ Not avaliable due to server failing T . T
 - 🤔 Check out my last project and help it become actually usefull!
 - :zap: Stay safe and don't forget to add docs to your projects... Or you're smell bad xD
 ---
