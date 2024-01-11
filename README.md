@@ -1,23 +1,34 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=SolidUsr&style=flat-square&color=blue" alt=""/>
 
 <h1> 
 	Welcome
 </h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SolidUsr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/SolidUsr)  
-
 ---
 
 ## About me
 
-- 🔭 Now I'm working onto "requesto-py" repository. It is a simple wrapper for Postgres and SQLite on python.
-- 🌱 I am learning java && cotlin
-- 📫 My e-mail: ~~naromori@dolta.su~~ Not avaliable due to server failing T . T
-- 🤔 Check out my last project and help it become actually usefull!
-- :zap: Stay safe and don't forget to add docs to your projects... Or you're smell bad xD
+Hi, I am an IT enthusiast. My native language is Russan, but my English level is C1, so I will consider English my second native language. I really like writing any software. From a small scripts for everyday usage or specific purposes to fullstack projects. I am looking forward to collaborate with other developers to improve my skills. I prefer backend over frontend, though. I really enjoy rock music, gaming && anime.
+
+
+## Experience
+
+- HTML, CSS, JS: Basic consepts and foundation.
+- Python: 3 years of practice. FLask, django, psycopg2, sqlite3.
+- C#: Basic consepts, Windows Forms, basics
+- Java: JavaFX, basics, databases, postgres
+- Kotlin: ```Work in progress```
+
+## Contacts
+
+Telegram: @Naromori
+GMail: reply.naromori@gmail.com
+Discord: naromori
+
 ---
 
 ### :fire: My stats for ones who cares:
