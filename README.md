@@ -26,7 +26,9 @@ Hi, I am an IT enthusiast. My native language is Russan, but my English level is
 ## Contacts
 
 Telegram: @Naromori
+
 GMail: reply.naromori@gmail.com
+
 Discord: naromori
 
 ---
