@@ -12,7 +12,7 @@
 
 ## About me
 
-Hi, I am an IT enthusiast. My native language is Russan, but my English level is C1, so I will consider English my second native language. I really like writing any software. From a small scripts for everyday usage or specific purposes to fullstack projects. I am looking forward to collaborate with other developers to improve my skills. I prefer backend over frontend, though. I really enjoy rock music, gaming && anime.
+Hi there! I'm an IT enthusiast who speaks English and Russian. I love writing software of all kinds, from small scripts for everyday use to full-stack projects. I'm excited to work with other developers to grow my skills. I'm particularly passionate about backend development, although I also enjoy frontend work. In my free time, I love rock music, gaming, and anime.
 
 
 ## Experience
