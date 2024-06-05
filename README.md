@@ -18,10 +18,9 @@ Hi, I am an IT enthusiast. My native language is Russan, but my English level is
 ## Experience
 
 - HTML, CSS, JS: Basic consepts and foundation.
-- Python: 3 years of practice. FLask, django, psycopg2, sqlite3.
-- C#: Basic consepts, Windows Forms, basics
-- Java: JavaFX, basics, databases, postgres
-- Kotlin: ```Work in progress```
+- Python: 3 years of practice. Flask, django, databases, RESTful APIs.
+- C#: Basic consepts, Windows Forms
+- Java / Kotlin: JavaFX, basics, databases, APIs, (KTor x Multiplatform in progress...)
 
 ## Contacts
 
@@ -31,12 +30,3 @@ GMail: reply.naromori@gmail.com
 
 Discord: naromori
 
----
-
-### :fire: My stats for ones who cares:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SolidUsr)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SolidUsr&theme=github_dark&border_radius=5&locale=en&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolidUsr&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
