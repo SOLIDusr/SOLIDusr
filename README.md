@@ -18,7 +18,7 @@ Hi there! I'm an IT enthusiast who speaks English and Russian. I love writing so
 ## Experience
 
 - HTML, CSS, JS: Basic consepts and foundation.
-- Python: 3 years of practice. Flask, django, databases, RESTful APIs.
+- Python: 4 years of practice. Flask, django, databases, RESTful APIs.
 - C#: Basic consepts, Windows Forms
 - Java / Kotlin: JavaFX, basics, databases, APIs, (KTor x Multiplatform in progress...)
 
