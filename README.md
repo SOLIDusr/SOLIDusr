@@ -12,19 +12,8 @@
 
 ## About me
 
-Hi there! I'm an IT enthusiast who speaks English and Russian. I love writing software of all kinds, from small scripts for everyday use to somewhat big projects. I'm excited to work with other developers to grow my skills. I'm particularly passionate about backend development, although I also enjoy frontend work. In my free time, I love rock music, gaming, and anime.
+Dev v.0.1.3-a
 
+-Hates Java
 
-## Experience
-
-- HTML, CSS, JS: Basic consepts and foundation.
-- Python: a few of practice. Flask, databases, APIs.
-- C#: Basic consepts, Windows Forms
-- Java / Kotlin: JavaFX, basics, databases, APIs, (KTor x Multiplatform in progress...)
-
-## Contacts
-
-GMail: reply.naromori@gmail.com
-
-Discord: naromori
-
+-Deals with Kotlin (kinda)
