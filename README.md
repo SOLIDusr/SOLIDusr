@@ -17,3 +17,5 @@ Dev v.0.1.3-a
 -Hates Java
 
 -Deals with Kotlin (kinda)
+
+-Pokes rust a little
